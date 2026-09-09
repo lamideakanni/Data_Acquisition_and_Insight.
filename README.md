@@ -1,4 +1,5 @@
-DATA-COLLECTION
+
+Data Collection
 
 A Jupyter notebook for data acquisition, exploration, and analysis of automotive datasets.
 
